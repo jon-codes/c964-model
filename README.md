@@ -18,3 +18,9 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+3. Start Jupyter notebook server:
+
+```bash
+jupyter notebook ./notebooks
+```
