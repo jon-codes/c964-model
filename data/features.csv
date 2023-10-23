@@ -91,5 +91,3 @@ FUELH2O2,categorical
 EVCHRGHOME,boolean
 NHSLDMEM,numerical
 SQFTEST,numerical
-DBT1,numerical
-DBT99,numerical
