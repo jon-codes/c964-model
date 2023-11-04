@@ -1,0 +1,24 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local environment
+.vscode/
+.editorconfig
+model.joblib
+README.md
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+
+# Fly.io
+fly.toml
